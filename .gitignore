@@ -1,0 +1,11 @@
+﻿.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+data/*.pdf
+data/*.txt
+data/*.json
+backend/cleaned_arabic.txt
