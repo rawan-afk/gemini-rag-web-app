@@ -59,7 +59,7 @@ This project was developed collaboratively during our training at the Financial 
 
 - Rawan Walid — https://github.com/rawan-afk
 - Darine Farrag — https://github.com/darinefarrag-droid
-- Rana — https://github.com/rana576
+- Rana Saied — https://github.com/rana576
 
 ## Training Context
 
